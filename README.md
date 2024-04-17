@@ -24,4 +24,7 @@
 + Cloud Deployment Manager - https://cloud.google.com/deployment-manager/docs/manage-cloud-resources-deployment
 + Stratozone - https://cloud.google.com/migrate/stratozone/docs/about-stratozone
 + Cloud Foundry - https://cloud.google.com/migrate/kf/docs/2.11/getting-started
-
+# GCP AI Guides
++ Generative AI on Vertex AI - https://cloud.google.com/vertex-ai/generative-ai/docs/learn/overview
++ DialogFlow - https://cloud.google.com/dialogflow/vertex/docs
++ 
