@@ -1,6 +1,8 @@
-# GCP
+# GCP Overview Links
 * GCP Overview - https://cloud.google.com/docs/overview
 * GCP Support - https://cloud.google.com/support/docs
 * GCP ALL Docs - https://cloud.google.com/docs
-**https://cloud.google.com/gemini/docs/overview
-**https://cloud.google.com/iam/docs/overview
+# GCP Detail Links
++ Gemini - https://cloud.google.com/gemini/docs/overview
++ IAM - https://cloud.google.com/iam/docs/overview
++ Cloud Identity - https://cloud.google.com/identity/docs/how-to
