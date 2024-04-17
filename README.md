@@ -8,4 +8,5 @@
 + Cloud Identity - https://cloud.google.com/identity/docs/how-to
 + Identity Platform - https://cloud.google.com/identity-platform/docs/how-to
 + Managed MS ID - https://cloud.google.com/security/products/managed-microsoft-ad/docs/overview
++ Access Approval - https://cloud.google.com/assured-workloads/access-approval/docs/overview
 + Quotas - https://cloud.google.com/docs/quotas/overview
