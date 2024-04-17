@@ -19,4 +19,5 @@
   + Cloud Billing - https://cloud.google.com/billing/docs/concepts
   + Cloud Quotas - https://cloud.google.com/docs/quotas/overview
   + Carbon Footprint - https://cloud.google.com/carbon-footprint/docs/view-carbon-data
+  + Infrastructure Manager - https://cloud.google.com/infrastructure-manager/docs/overview
   + 
