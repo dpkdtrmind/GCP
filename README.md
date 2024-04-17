@@ -21,4 +21,5 @@
   + Carbon Footprint - https://cloud.google.com/carbon-footprint/docs/view-carbon-data
   + Infrastructure Manager - https://cloud.google.com/infrastructure-manager/docs/overview
   + Terraform on Google Cloud - https://cloud.google.com/docs/terraform/iac-overview
+  + Cloud Deployment Manager - https://cloud.google.com/deployment-manager/docs/manage-cloud-resources-deployment
   + 
