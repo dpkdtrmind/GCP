@@ -7,4 +7,5 @@
 + IAM - https://cloud.google.com/iam/docs/overview
 + Cloud Identity - https://cloud.google.com/identity/docs/how-to
 + Identity Platform - https://cloud.google.com/identity-platform/docs/how-to
-+ Quotas: https://cloud.google.com/docs/quotas/overview
++ Managed MS ID - https://cloud.google.com/security/products/managed-microsoft-ad/docs/overview
++ Quotas - https://cloud.google.com/docs/quotas/overview
