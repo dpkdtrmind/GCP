@@ -22,4 +22,6 @@
 + Infrastructure Manager - https://cloud.google.com/infrastructure-manager/docs/overview
 + Terraform on Google Cloud - https://cloud.google.com/docs/terraform/iac-overview
 + Cloud Deployment Manager - https://cloud.google.com/deployment-manager/docs/manage-cloud-resources-deployment
-+ 
++ Stratozone - https://cloud.google.com/migrate/stratozone/docs/about-stratozone
++ Cloud Foundry - https://cloud.google.com/migrate/kf/docs/2.11/getting-started
+
