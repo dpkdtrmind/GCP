@@ -6,3 +6,4 @@
 + Gemini - https://cloud.google.com/gemini/docs/overview
 + IAM - https://cloud.google.com/iam/docs/overview
 + Cloud Identity - https://cloud.google.com/identity/docs/how-to
++ Identity Platform - https://cloud.google.com/identity-platform/docs/how-to
