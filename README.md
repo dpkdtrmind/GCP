@@ -15,4 +15,5 @@
 + Recommender - https://cloud.google.com/recommender/docs/quickstart-recommendation-hub
 + Config Connector - https://cloud.google.com/config-connector/docs/overview
 + Python - https://cloud.google.com/python/docs/setup
++ Java - https://cloud.google.com/java/docs/setup
 + Quotas - https://cloud.google.com/docs/quotas/overview
