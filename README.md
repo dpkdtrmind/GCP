@@ -16,4 +16,5 @@
   + Config Connector - https://cloud.google.com/config-connector/docs/overview
   + Python - https://cloud.google.com/python/docs/setup
   + Java - https://cloud.google.com/java/docs/setup
+  + Cloud Billing - https://cloud.google.com/billing/docs/concepts
   + Quotas - https://cloud.google.com/docs/quotas/overview
